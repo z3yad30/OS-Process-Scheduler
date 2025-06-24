@@ -18,7 +18,7 @@ Includes a GUI for visualizing the execution with Gantt charts and process stati
 - `output.txt`: Automatically generated processes
 - `process_generator.py`: Generates random processes
 - `scheduler.py`: Contains the scheduling logic
-- `gui.py`: Launches the GUI and visualizations
+- `gui.py`: Launches the GUI and visualizations   (ru this file)
 
 ---
 
